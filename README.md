@@ -1,150 +1,169 @@
-<h1 align="left">👋 Hey, I'm Elmoudden Lhoussaine<br>Full-Stack Developer | 23 | 🇲🇦 Morocco<br><br>I build modern, production-ready web applications with a focus on clean code, scalability, and user experience.<br><br>🚀 What I Do:</h1>
+<div align="center">
 
-###
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:A960FF,100:00c9ff&height=300&section=header&text=Elmoudden%20Lhoussaine&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%2023%20%7C%20🇲🇦%20Morocco&descAlignY=56&descSize=20&descColor=c9d1d9)
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=A960FF&center=true&vCenter=true&width=1000&height=70&lines=I+build+modern+web+apps+that+scale+%F0%9F%9A%80;Clean+Code+%7C+Scalable+Architecture+%7C+Beautiful+UX;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python"
+  alt="Typing SVG"
+/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Elmouddenlhoussen&color=blueviolet&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Elmouddenlhoussen?label=FOLLOWERS&logo=github&style=for-the-badge&color=00c9ff" alt="Followers" />
+<img src="https://img.shields.io/badge/OPEN%20TO-REMOTE%20WORK-00C851?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to work" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/elmoudden-lhoussaine-4099832a9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:elmouddenlhoussen324@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/212606784741">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://linkly.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio%20Demo-Linkly-A960FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="60" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="60" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="60" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="60" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="60" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="60" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge" height="60" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="60" alt="pandas logo"  />
+
+🧑‍💻  Full-Stack Developer from Morocco 🇲🇦 <br/>
+🎯  I ship production-ready web apps — SaaS, dashboards, APIs <br/>
+🧼  Strong focus on clean architecture, DX, and UX <br/>
+✵   I love building tech that highlights Moroccan/Amazigh culture 
+
+<br/>
+
+| 💡 Core Strengths |
+|:---|
+| ⚡ Frontend performance & pixel-perfect UI |
+| 🔐 Authentication + Payments (Stripe) |
+| 📊 Analytics & admin dashboards |
+| 🧱 Scalable DB design with Prisma / SQL |
+
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+
+## 🛠️ Tech Stack (organized)
+
 
 <div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,tailwind,css,html,bootstrap&theme=dark&perline=8" alt="frontend" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,django,php,prisma&theme=dark&perline=6" alt="backend" />
+
+### Databases & BaaS
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&theme=dark&perline=8" alt="db" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,vercel,cloudflare,postman,figma&theme=dark&perline=8" alt="tools" />
+
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Elmouddenlhoussen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+<p>
+  <img height="170" src="https://github-readme-stats-eta-two-55.vercel.app/api?username=Elmouddenlhoussen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=00c9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats-eta-two-55.vercel.app/api/top-langs/?username=Elmouddenlhoussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9" alt="top langs" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Elmouddenlhoussen&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=00c9ff&currStreakLabel=A960FF" alt="streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elmouddenlhoussen&bg_color=0D1117&color=A960FF&line=00c9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
+</p>
+
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elmouddenlhoussen/Elmouddenlhoussen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elmouddenlhoussen/Elmouddenlhoussen/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Elmouddenlhoussen/Elmouddenlhoussen/output/pacman-contribution-graph.svg">
-</picture>
+## 💼 Featured Projects
 
-###
-
-<p align="left">💼 Featured Projects<br><br>🔗 [Linkly](https://github.com/Elmouddenlhoussen/linkly)<br>A modern SaaS URL shortener with analytics and premium features.<br><br>Tech Stack: Next.js 15 • TypeScript • PostgreSQL • Prisma • Stripe • NextAuth.js • Tailwind CSS<br><br>Features:<br>- ✅ User authentication & authorization<br>- ✅ URL shortening with QR codes<br>- ✅ Real-time analytics dashboard<br>- ✅ Stripe subscription billing<br>- ✅ Dark mode support<br>- ✅ Responsive design<br><br>[→ Live Demo](https://linkly.vercel.app) | [→ Repository](https://github.com/Elmouddenlhoussen/linkly)<br><br>---<br><br>🎨 [Azoul AI](https://github.com/Elmouddenlhoussen/Azoulai)<br>An AI chat application celebrating Moroccan Amazigh culture with beautiful design.<br><br>Tech Stack: React 19 • TypeScript • Vite • Google Gemini API • Tailwind CSS<br><br>Features:<br>- ✅ Authentic Moroccan/Amazigh design<br>- ✅ Tifinagh typography integration<br>- ✅ Dark/light theme support<br>- ✅ Real-time AI conversations<br>- ✅ Local storage for chat history<br><br>[→ Repository](https://github.com/Elmouddenlhoussen/Azoulai)<br><br>---<br><br>🏢 [LKHEDMA Social](https://github.com/Elmouddenlhoussen/plateforme-travailleurs-sociaux)<br>A comprehensive platform connecting social workers with establishments (in Arabic).<br><br>Tech Stack: Node.js • Express • MySQL • Bootstrap<br><br>Features:<br>- ✅ Worker & establishment profiles<br>- ✅ Mission management system<br>- ✅ Application & hiring workflow<br>- ✅ Reviews & ratings system<br>- ✅ Multi-region support<br>- ✅ Payment integration<br><br>[→ Repository](https://github.com/Elmouddenlhoussen/plateforme-travailleurs-sociaux)</p>
-
-###
-
-<p align="left">📊 What I'm Passionate About<br><br>- 🎯 Building products that solve real problems<br>- 🏗️ Writing scalable, maintainable code<br>- 📱 Creating responsive, user-friendly interfaces<br>- 🌍 Celebrating Moroccan culture in tech<br>- 📈 Learning and staying current with web technologies<br>- 🤝 Contributing to open-source</p>
-
-###
-
-<p align="left">🤝 Let's Connect<br><br>- **GitHub:** [@Elmouddenlhoussen](https://github.com/Elmouddenlhoussen)<br>- Email: [elmouddenlhoussen324@gmail.com]<br>- Location: Morocco 🇲🇦</p>
-
-###
-
+### 🔗 Linkly — SaaS URL Shortener (Analytics + Billing)
 <div align="left">
+
+[![Live Demo](https://img.shields.io/badge/▶%20LIVE%20DEMO-A960FF?style=for-the-badge&logo=vercel&logoColor=white)](https://linkly.vercel.app)
+[![Source Code](https://img.shields.io/badge/SOURCE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elmouddenlhoussen/linkly)
+
 </div>
 
-###
+**Stack:** `Next.js 15` `TypeScript` `PostgreSQL` `Prisma` `Stripe` `NextAuth.js` `Tailwind CSS`  
+**Highlights:** Auth • QR Codes • Real-time analytics • Subscriptions • Dark mode • Responsive UI
 
+---
+
+### 🎨 Azoul AI — Moroccan Amazigh AI Chat Experience
 <div align="left">
+
+[![Source Code](https://img.shields.io/badge/SOURCE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elmouddenlhoussen/Azoulai)
+
 </div>
 
-###
+**Stack:** `React 19` `TypeScript` `Vite` `Gemini API` `Tailwind CSS`  
+**Highlights:** Tifinagh typography • Dark/Light mode • Clean UI • Fast interactions
 
+---
+
+### 🏢 LKHEDMA Social — Platform for Social Workers (Arabic)
 <div align="left">
-  <a href="https://www.linkedin.com/in/elmoudden-lhoussaine-4099832a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="+212 606-784741" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/elmouddenlhoussin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+
+[![Source Code](https://img.shields.io/badge/SOURCE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elmouddenlhoussen/plateforme-travailleurs-sociaux)
+
 </div>
 
-###
+**Stack:** `Node.js` `Express` `MySQL` `Bootstrap`  
+**Highlights:** Profiles • Missions • Hiring workflow • Ratings • Multi-region • Payments
 
-<div align="left">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-###
+## ✅ What you get when you hire me
 
-<div align="left">
-</div>
+- 🚀 **Fast shipping** without sacrificing quality
+- 🧱 **Scalable architecture** (DB + API + UI)
+- 🎨 **UI polish** (design sense + attention to detail)
+- 🔐 **Production features**: auth, roles, payments, analytics
+- 🤝 **Remote-ready** communication & ownership
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTllaXVxZDQzZ3Y5a2VpejF0bmJmNHJ0MW0zZGY4a21kOXM5emdqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0wxRYPhdD7n3W7NQ1R/giphy.gif"  />
-</div>
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=A960FF&center=true&vCenter=true&width=1000&height=55&lines=Thanks+for+visiting!;If+you+like+what+you+see%2C+let%27s+talk+%F0%9F%A4%9D" alt="Typing footer"/>
+
+<br/>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTllYXV4ZDQzZ3Y5a2VpejF0bmJmNHJ0MW0zZGY4a21kOXM5emdhNySep=v1_internal_gif_by_id&ct=g/0wxRYPhdD7n3W7NQ1R/giphy.gif" width="480" alt="coding gif"/>
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling)
+
+</div>
+<div align="center">
+  <img 
+    src="https://camo.githubusercontent.com/0df75805ba8b064881e731d0d18abf50eaaa77e920a8184d23bc194552f64023/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861546c6c615856785a44517a5a33593561325670656a4630626d4a6d4e484a304d57307a5a4759346132316b4f584d35656d64714e795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f307778525950686444376e3357374e5131522f67697068792e676966" 
+    alt="fun gif"
+    width="260"
+    style="border-radius: 10px;"
+  >
+</div>
